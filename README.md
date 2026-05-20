@@ -15,6 +15,7 @@
 
 ## Стркутура проекта (Лабораторная работа 2.2)
 Разработка модульной структуры проекта (диаграммы модулей)
+
 <img width="387" height="278" alt="image" src="https://github.com/user-attachments/assets/02e356f4-9e08-430a-b798-569f8272b1b9" />
 <img width="455" height="320" alt="image" src="https://github.com/user-attachments/assets/0264143f-e310-42cc-a3c1-7941a95592cf" />
 
